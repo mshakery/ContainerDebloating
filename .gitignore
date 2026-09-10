@@ -1,0 +1,14 @@
+.idea/
+.venv/
+__pycache__/
+*.py[cod]
+/analysis/stats/
+/analysis/figures/
+/analysis/tables/
+/experiments/new_runs/
+/experiments/build_all_results.json
+/experiments/gl1/cold_eb/run_*/
+/experiments/gl1/cold_eb/run_table.csv
+/experiments/gl1/cold_eb/metadata.json
+/replication/debloat/cache.json*
+/replication/debloat/confine_profiles/.build-*/
